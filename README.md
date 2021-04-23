@@ -20,6 +20,14 @@ Loans are created and renewed between borrowers and lenders monthly. These loans
 - Data Visualization: Tableau
 - Reporting: Microsoft Powerpoint 
 
+## Files:
+- Cleaned data file: LoanStats_2020Q2_cleaned.csv
+- EER Model: model7.0.mwb
+- EER Model Diagram Screenshot: Final Project EER DIagram.png
+- SQL queries: two sql files within sql codes folder
+- Tableau Dashboard: FinalProjectTableau.twbx (more detailed raw dashboard files: 5cAnalysis_Tableau.twbx, BorrowerRiskProfiling_Tableau.twbx)
+- Final Presentation PPT: DEP Final Presentation.pdf
+
 ## Result:
 1. Succesfully designed an OLTP database using MySQl with careful considerations of relational data integrity, entity cardinality, attribute selection
 2. Performed ETL processing to migrate 20,000 records of loan data into Google Cloud
