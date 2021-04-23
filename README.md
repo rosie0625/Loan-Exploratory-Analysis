@@ -25,7 +25,7 @@ Loans are created and renewed between borrowers and lenders monthly. These loans
 2. Performed ETL processing to migrate 20,000 records of loan data into Google Cloud
 3. Identified borrower traits that make them vulnerable to default risks, and explored relationships between borrower loan
 behaviors and loan grade, loan purpose and loan status using SQL, and visualized findings through Tableau dashboards.
-    ** Some exmaples of insights we extracted: **
+    **Some exmaples of insights we extracted:**
     - Borrowers who take on loans for debt consolidation purpose heavily dominate the loan market.
     - Risky loan status (Late, Charged Off, In Grace Period) have higher average loan amount.
     - Borrowers with 10+ years work experience dominate the loan market.
